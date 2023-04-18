@@ -1103,6 +1103,9 @@ select::-ms-expand {
     margin-bottom: 32px;
   }
   /*style for cart*/
+  .top-cart {
+    background-position: calc(100% + 318px);
+  }
   .top-cart__title {
     font-size: 48px;
     line-height: 59px;

@@ -170,6 +170,9 @@
     }
 
     /*style for cart*/
+    .top-cart {
+        background-position: calc(100% + (304px + 14px))
+    }
     .top-cart__title {
         font-size: 48px;
         line-height: 59px;
